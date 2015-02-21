@@ -36,17 +36,17 @@
 }
 
 - (void)loadInitialData {
-    ToDoItem *item1 = [[ToDoItem alloc] init];
-    item1.itemName = @"Design App";
-    [self.toDoItems addObject:item1];
-
-    ToDoItem *item2 = [[ToDoItem alloc] init];
-    item2.itemName = @"Make App";
-    [self.toDoItems addObject:item2];
-
-    ToDoItem *item3 = [[ToDoItem alloc] init];
-    item3.itemName = @"Ship App";
-    [self.toDoItems addObject:item3];
+//    ToDoItem *item1 = [[ToDoItem alloc] init];
+//    item1.itemName = @"Design App";
+//    [self.toDoItems addObject:item1];
+//
+//    ToDoItem *item2 = [[ToDoItem alloc] init];
+//    item2.itemName = @"Make App";
+//    [self.toDoItems addObject:item2];
+//
+//    ToDoItem *item3 = [[ToDoItem alloc] init];
+//    item3.itemName = @"Ship App";
+//    [self.toDoItems addObject:item3];
 
 }
 
